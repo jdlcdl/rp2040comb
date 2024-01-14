@@ -27,7 +27,15 @@ returns true if bytes in flash are the same as the one passed in.
 * [hex_dump.py](./hex_dump.py):
 a kludgy-yet-versatile implementation of hex_dump for visually inspecting bytes in flash.
 
+* [uf2parse.py](./uf2parse.py):
+a commandline parser of firmware.uf2 files for validity, size, checksums and/or flashdump.
+
 ---
+
+Example usage:
+* https://gist.github.com/jdlcdl/a464bc6cb4b8ea8b621a1bb4f57ba436
+
+--- 
 
 Tools here are ~~heavily borrowed~~ lazily stolen from https://github.com/jdlcdl/k210comb
 
