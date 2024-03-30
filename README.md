@@ -39,3 +39,6 @@ Example usage:
 
 Tools here are ~~heavily borrowed~~ lazily stolen from https://github.com/jdlcdl/k210comb
 
+---
+
+For MicroPython firmware: see https://micropython.org/download/RPI_PICO_W/
